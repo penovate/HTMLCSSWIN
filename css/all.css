@@ -76,6 +76,13 @@ body {
     justify-content: center;
     padding: 24px 16px;
   }
+
+  .header ul li{
+    font-size: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
 }
 
 .about{
@@ -114,6 +121,8 @@ body {
     .about-text{
         width: 100%;
         padding: 48px 12px;
+        margin-left: 0;
+        box-sizing: border-box;
     }
 }
 
